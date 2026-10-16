@@ -1,0 +1,6 @@
+{
+  "name": "NexVora SVG",
+  "description": "Professional SVG Viewer, Editor, Optimizer & Converter. Inspect vector graphics, format code, export to React JSX, PNG, WebP, and Data URI with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
